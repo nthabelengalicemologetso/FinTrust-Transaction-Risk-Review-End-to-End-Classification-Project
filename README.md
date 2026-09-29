@@ -1,4 +1,9 @@
-[FinTrust_Part_A_Data_Prep.py](https://github.com/user-attachments/files/32812991/FinTrust_Part_A_Data_Prep.py)# FinTrust-Transaction-Risk-Review-End-to-End-Classification-Project  # 📌 Overview
+[FinTrust_Part_A_Data_Prep.py](https://github.com/user-attachments/files/32812991/FinTrust_Part_A_Data_Prep.py)# FinTrust-Transaction-Risk-Review-End-to-End-Classification-Project 
+#<img width="1031" height="577" alt="Screenshot 2026-09-29 175922" src="https://github.com/user-attachments/assets/d8d58c8f-78d2-4436-a476-ca5f3566fb68" />
+
+
+
+# 📌 Overview
 
 **FinTrust** is a simulated Nigerian retail bank. This project uses customer and transaction data to investigate and predict whether a transaction should be flagged for **manual risk review**.
 
